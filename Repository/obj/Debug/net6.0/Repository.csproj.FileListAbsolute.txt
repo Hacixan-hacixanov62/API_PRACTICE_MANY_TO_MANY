@@ -1,0 +1,17 @@
+C:\API (epiay)\CourseAPP\Repository\bin\Debug\net6.0\Repository.deps.json
+C:\API (epiay)\CourseAPP\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+C:\API (epiay)\CourseAPP\Repository\bin\Debug\net6.0\Repository.dll
+C:\API (epiay)\CourseAPP\Repository\bin\Debug\net6.0\Repository.pdb
+C:\API (epiay)\CourseAPP\Repository\bin\Debug\net6.0\Domain.dll
+C:\API (epiay)\CourseAPP\Repository\bin\Debug\net6.0\Domain.pdb
+C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
+C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.dll
+C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\refint\Repository.dll
+C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.pdb
+C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\ref\Repository.dll

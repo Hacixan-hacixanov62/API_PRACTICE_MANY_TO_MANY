@@ -1,0 +1,11 @@
+C:\API (epiay)\CourseAPP\Service\bin\Debug\net6.0\Service.deps.json
+C:\API (epiay)\CourseAPP\Service\bin\Debug\net6.0\Service.dll
+C:\API (epiay)\CourseAPP\Service\bin\Debug\net6.0\Service.pdb
+C:\API (epiay)\CourseAPP\Service\obj\Debug\net6.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\API (epiay)\CourseAPP\Service\obj\Debug\net6.0\Service.AssemblyInfoInputs.cache
+C:\API (epiay)\CourseAPP\Service\obj\Debug\net6.0\Service.AssemblyInfo.cs
+C:\API (epiay)\CourseAPP\Service\obj\Debug\net6.0\Service.csproj.CoreCompileInputs.cache
+C:\API (epiay)\CourseAPP\Service\obj\Debug\net6.0\Service.dll
+C:\API (epiay)\CourseAPP\Service\obj\Debug\net6.0\refint\Service.dll
+C:\API (epiay)\CourseAPP\Service\obj\Debug\net6.0\Service.pdb
+C:\API (epiay)\CourseAPP\Service\obj\Debug\net6.0\ref\Service.dll
