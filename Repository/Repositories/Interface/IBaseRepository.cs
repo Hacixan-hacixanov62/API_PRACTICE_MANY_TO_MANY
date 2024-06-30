@@ -1,4 +1,4 @@
-﻿using CourseAPP.Models;
+﻿using Domain.Common;
 using System.Linq.Expressions;
 
 namespace Repository.Repositories.Interface
@@ -9,8 +9,8 @@ namespace Repository.Repositories.Interface
         Task EditAsync(T entity);
         Task DeleteAsync(T entity);
         Task<IEnumerable<T>> GetAllAsync();
-        Task<T> GetByIdAsync(int id);
-        //IQueryable<T> FindBy(Expression<Func<T, bool>> predicate, params Expression<Func<T, object>>[] includes);
+        Task<T> GetById(int id);
+        IQueryable<T> FindBy(Expression<Func<T, bool>> predicate, params Expression<Func<T, object>>[] includes);
 
     }
 }

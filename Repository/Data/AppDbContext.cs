@@ -11,6 +11,7 @@ namespace Repository.Data
 
         public DbSet<Student> Students { get; set; }
         public DbSet<Group> Groups { get; set; }
+        public DbSet<StudentGroup> StudentGroups { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(StudentConfiguration).Assembly);

@@ -1,7 +1,8 @@
-﻿using CourseAPP.Models;
+﻿using Domain.Common;
 using Microsoft.EntityFrameworkCore;
 using Repository.Data;
 using Repository.Repositories.Interface;
+using System.Linq.Expressions;
 
 namespace Repository.Repositories
 {
@@ -38,9 +39,15 @@ namespace Repository.Repositories
             return await _entities.AsNoTracking().ToListAsync();
         }
 
-        public async Task<T> GetByIdAsync(int id)
+        public async Task<T> GetById(int id)
         {
             return await _entities.AsNoTracking().FirstOrDefaultAsync(m => m.Id == id);
+        }
+
+        public IQueryable<T> FindBy(Expression<Func<T, bool>> predicate, params Expression<Func<T, object>>[] includes)
+        {
+            var query = _entities.Where(predicate);
+            return includes.Aggregate(query, (current, includeProperty) => current.Include(includeProperty));
         }
     }
 }

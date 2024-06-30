@@ -1,4 +1,4 @@
-﻿namespace CourseAPP.Models
+﻿namespace Domain.Common
 {
     public abstract class BaseEntity
     {

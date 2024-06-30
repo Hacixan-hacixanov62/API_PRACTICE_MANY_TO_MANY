@@ -9,6 +9,7 @@ C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuild
 C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
 C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
 C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.sourcelink.json
 C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete
 C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\Repository.dll
 C:\API (epiay)\CourseAPP\Repository\obj\Debug\net6.0\refint\Repository.dll

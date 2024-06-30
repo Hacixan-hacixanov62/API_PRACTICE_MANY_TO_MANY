@@ -1,6 +1,7 @@
-﻿using CourseAPP.Models;
+﻿using Domain.Entities;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
+using Domain.Common;
 
 namespace Domain.Configurations
 {
